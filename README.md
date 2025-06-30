@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @LucasMarchiDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Olá, eu sou o Lucas Marchi!
 
-<!---
-LucasMarchiDev/LucasMarchiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔧 Interesses: C#, Unity, Java, Desenvolvimento de Jogos e Aplicações  
+💡 Buscando evoluir em programação e construir um portfólio sólido  
+📫 Contato: Lucasmarchidev@outlook.com | linkedin.com/in/lucas-marchi-21066616a  
+
+---
+
+### 🚀 Tecnologias e Ferramentas
+- C# | Unity | Java | Git & GitHub
+
+### 📂 Projetos em destaque
+(Em breve, adicionarei aqui projetos acadêmicos e pessoais)
+
+---
