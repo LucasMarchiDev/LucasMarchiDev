@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🔧 Interesses: Java, Spring Boot, Desenvolvimento de Jogos e Aplicações  
 💡 Buscando evoluir em programação e construir um portfólio sólido  
-📫 Contato: Lucasmarchidev@outlook.com | in/lucas-marchi-21066616a  
+📫 Contato: lukinha_filipe@hotmail.com | in/lucas-marchi-21066616a  
 
 ---
 
